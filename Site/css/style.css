@@ -1,0 +1,41 @@
+.btn{
+    background-color: aqua;
+    border: 5px;
+    border-radius: 200px;
+    border-radius: ;
+  }
+
+  .username{
+    border: 25px;
+    background-color: rgb(187, 165, 206);
+    border-width: 33px;
+    padding: 10px;
+  }
+
+  .email{
+    border: 25px;
+    background-color: rgb(187, 165, 206);
+    border-width: 33px;
+    padding: 10px;
+    padding-left: 5px;
+   
+  }
+  .password{
+    border: 25px;
+    background-color: rgb(187, 165, 206);
+    border-width: 33px;
+    padding: 10px;
+  }
+
+  .confirmedpassword{
+    border: 25px;
+    background-color: rgb(187, 165, 206);
+    border-width: 33px;
+    padding: 10px;
+  }
+
+  #btn {
+    background-color: blue;
+    border: 1000px;
+    border-radius: 300px;
+}
